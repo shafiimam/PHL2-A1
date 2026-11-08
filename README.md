@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 1
 
 In this assignment I practiced TypeScript fundamentals, including typed functions, unions, generics, interfaces, classes, and asynchronous validation.
 
